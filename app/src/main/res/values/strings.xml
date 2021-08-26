@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kekod Challenge 1 - Weather View</string>
+    <string name="city_name">Mersin</string>
+    <string name="today">Bugün</string>
+    <string name="weather">Güneşli ve Rüzgarlı</string>
+    <string name="degree_value">34°</string>
+    <string name="hot">Sıcak</string>
+    <string name="min_degree">En düşük</string>
+    <string name="min_degree_value">27°</string>
+    <string name="max_degree">En yüksek</string>
+    <string name="max_degree_value">37°</string>
+    <string name="wind_value">10km/h</string>
+    <string name="wind">Rüzgar</string>
+    <string name="humidity_value">90%</string>
+    <string name="humidity">Nem</string>
+    <string name="saturday">Cmt</string>
+    <string name="sunny">Güneşli</string>
+    <string name="saturday_degree">25°/36°</string>
+    <string name="sunday">Paz</string>
+    <string name="partly_cloudy">Parçalı Bulutlu</string>
+    <string name="sunday_degree">23°/32°</string>
+    <string name="monday">Pzt</string>
+    <string name="monday_degree">26°/31°</string>
+    <string name="tuesday">Sal</string>
+    <string name="tuesday_degree">28°/37°</string>
+    <string name="wednesday">Çar</string>
+    <string name="rainy">Yağmurlu</string>
+    <string name="wednesday_degree">22°/27°</string>
+    <string name="thursday">Per</string>
+    <string name="thursday_degree">25°/30°</string>
+</resources>

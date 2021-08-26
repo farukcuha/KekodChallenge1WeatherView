@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Kekod Challenge 1 - Weather View"
